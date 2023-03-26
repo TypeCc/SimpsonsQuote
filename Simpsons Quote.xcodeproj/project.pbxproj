@@ -62,15 +62,47 @@
 		072094F329C7181300743C6F /* Simpsons Quote */ = {
 			isa = PBXGroup;
 			children = (
-				0720950829C71CAC00743C6F /* SimpsonsModel.swift */,
-				072094F429C7181300743C6F /* AppDelegate.swift */,
-				072094F629C7181300743C6F /* SceneDelegate.swift */,
-				072094F829C7181300743C6F /* ViewController.swift */,
-				072094FD29C7181300743C6F /* Assets.xcassets */,
-				072094FF29C7181300743C6F /* LaunchScreen.storyboard */,
+				078BD3D229D07153000041E2 /* SimpsonsView */,
+				078BD3D129D0713E000041E2 /* SimpsonsModel */,
+				0720951429C737BE00743C6F /* Core */,
+				0720951329C736B500743C6F /* SupportingFiles */,
 				0720950229C7181300743C6F /* Info.plist */,
 			);
 			path = "Simpsons Quote";
+			sourceTree = "<group>";
+		};
+		0720951329C736B500743C6F /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				072094FF29C7181300743C6F /* LaunchScreen.storyboard */,
+				072094FD29C7181300743C6F /* Assets.xcassets */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		0720951429C737BE00743C6F /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				072094F429C7181300743C6F /* AppDelegate.swift */,
+				072094F629C7181300743C6F /* SceneDelegate.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		078BD3D129D0713E000041E2 /* SimpsonsModel */ = {
+			isa = PBXGroup;
+			children = (
+				0720950829C71CAC00743C6F /* SimpsonsModel.swift */,
+			);
+			path = SimpsonsModel;
+			sourceTree = "<group>";
+		};
+		078BD3D229D07153000041E2 /* SimpsonsView */ = {
+			isa = PBXGroup;
+			children = (
+				072094F829C7181300743C6F /* ViewController.swift */,
+			);
+			path = SimpsonsView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
