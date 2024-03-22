@@ -36,6 +36,4 @@ SimpsonsQuote uygulaması, [Simpsons Quote API](https://thesimpsonsquoteapi.glit
 
 - Eğer bir hata bulursanız veya bir öneriniz varsa lütfen [sorun bildirin](https://github.com/TypeCc/SimpsonsQuote/issues).
 - Projeye katkıda bulunmak isterseniz lütfen bir [çekme isteği](https://github.com/TypeCc/SimpsonsQuote/pulls) gönderin.
-
-
   
